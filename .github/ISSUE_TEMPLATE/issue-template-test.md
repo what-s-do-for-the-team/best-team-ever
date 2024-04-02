@@ -2,8 +2,8 @@
 name: issue template test
 about: issue template edit test
 title: ''
-labels: ''
-assignees: ''
+labels: feature
+assignees: rlawlsdyd5932
 
 ---
 
