@@ -2,7 +2,7 @@
 name: Bug report
 about: 프로젝트에 대한 버그 내용
 title: "[FEATURE][도메인] - 내용"
-labels: ''
+labels: bug
 assignees: rlawlsdyd5932
 
 ---
